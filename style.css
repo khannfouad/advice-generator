@@ -79,7 +79,7 @@ body{
 
 .wrapper{
   min-width: 367px;
-  max-width: 500px;
+  max-width: 540px;
 
   margin-top: 2em;
 
@@ -94,7 +94,7 @@ body{
   display: grid;
   gap: 1.2em;
 
-  padding: 1em 1em;
+  padding: 1em 1.2em;
   border-radius: 10px;
 }
 
@@ -109,7 +109,7 @@ body{
 }
 
 .top__section picture {
-  margin-bottom: 0.7em;
+  margin-bottom: 0.6em;
 }
 
 .bottom__section button{
@@ -148,11 +148,7 @@ button:focus{
     height: 100vh;
   }
 
-  .top__section{
-    padding: 1.6em;
-  }
-
   .top__section h1{
-    margin-top: 1em;
+    margin-top: 1em
   }
 }
