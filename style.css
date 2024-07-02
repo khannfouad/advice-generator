@@ -68,6 +68,9 @@ body{
 
   background-color: var(--neutral-background-color);
 
+  display: flex;
+  justify-content:center;
+
   margin: 1em
 }
 
