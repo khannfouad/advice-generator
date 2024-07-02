@@ -147,4 +147,8 @@ button:focus{
     place-content: center;
     height: 100vh;
   }
+
+  .top__section{
+    padding: 1.6em;
+  }
 }
