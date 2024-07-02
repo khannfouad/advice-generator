@@ -151,4 +151,8 @@ button:focus{
   .top__section{
     padding: 1.6em;
   }
+
+  .top__section h1{
+    margin-top: 1em;
+  }
 }
